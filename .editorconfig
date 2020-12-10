@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# S126: "if ... else if" constructs should end with "else" clauses
+dotnet_diagnostic.S126.severity = error
